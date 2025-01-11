@@ -1,0 +1,18 @@
+.Not-Found-Page{
+   width: 100vw;
+   height: 70vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.Not-Found-Page h2{
+    margin: 3rem;
+   
+}
+
+.Not-Found-Page .btn:hover{
+    background-color: var(--color-secondary);
+}
+
+
