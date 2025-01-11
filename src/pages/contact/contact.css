@@ -1,0 +1,43 @@
+.Contact-Contents{
+    margin: 10rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.mailicon{
+    background-color: var(--color-primary);
+    height: 30px;
+    width: 30px;
+    transform: scale(2);
+    display: flex;
+    justify-content: center;
+    padding-top: 3px;
+    align-items: center;
+    border-radius:10px;
+    color: aliceblue;
+}
+.facebookicon{
+    background-color: var(--color-primary);
+    padding-top: 3px;
+    color: aliceblue;
+    height: 30px;
+    width: 30px;
+    transform: scale(2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:10px;
+}
+
+.whatsappicon{
+    background-color: var(--color-primary);
+    color: aliceblue;
+    height: 30px;
+    width: 30px;
+    transform: scale(2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:10px;
+    padding-top: 3px;
+}
